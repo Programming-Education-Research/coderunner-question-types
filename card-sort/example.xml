@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="coderunner">
+    <name>
+      <text>Card Sort — Boolean Reasoning</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Just because we can write code that runs doesn't mean it's code that works. When we write Boolean expressions, it is usually because we want them to be <code>True</code> in some cases and <code>False</code> in others — however, it is possible to write Boolean expressions that are always <code>True</code> or always <code>False</code>.</p>
+<p>Assuming the variables <code>x</code>, <code>y</code>, and <code>z</code> can be any integers, sort the cards into groups based on whether they are always <code>True</code>, always <code>False</code>, or can be either <code>True</code> or <code>False</code>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <coderunnertype>cardsort</coderunnertype>
+    <prototypetype>0</prototypetype>
+    <allornothing>0</allornothing>
+    <penaltyregime>0</penaltyregime>
+    <precheck>0</precheck>
+    <hidecheck>0</hidecheck>
+    <showsource>0</showsource>
+    <answerboxlines>18</answerboxlines>
+    <answerboxcolumns>100</answerboxcolumns>
+    <answerpreload><![CDATA[{"cardsort":[{"groups":[{"title":"Cards","cards":[{"prompt":"0 < x and x < 3","preformatted":true},{"prompt":"x == z or y != z","preformatted":true},{"prompt":"x < 0 and x > 5","preformatted":true},{"prompt":"x == y and x != y","preformatted":true},{"prompt":"x == y or x != y","preformatted":true},{"prompt":"x < 0 or x > 5","preformatted":true},{"prompt":"0 < x or x < 3","preformatted":true},{"prompt":"x < y and y < z and z < x","preformatted":true}]},{"title":"Always True","cards":[]},{"title":"Always False","cards":[]},{"title":"Either True or False","cards":[]}],"config":{"groupOrder":true,"groupWidth":"25"}}]}]]></answerpreload>
+    <globalextra></globalextra>
+    <useace></useace>
+    <resultcolumns></resultcolumns>
+    <template></template>
+    <iscombinatortemplate></iscombinatortemplate>
+    <allowmultiplestdins></allowmultiplestdins>
+    <answer><![CDATA[{"cardsort":[{"groups":[{"title":"Cards","cards":[]},{"title":"Always True","cards":[{"prompt":"x == y or x != y","preformatted":true},{"prompt":"0 < x or x < 3","preformatted":true}]},{"title":"Always False","cards":[{"prompt":"x < 0 and x > 5","preformatted":true},{"prompt":"x == y and x != y","preformatted":true},{"prompt":"x < y and y < z and z < x","preformatted":true}]},{"title":"Either True or False","cards":[{"prompt":"0 < x and x < 3","preformatted":true},{"prompt":"x == z or y != z","preformatted":true},{"prompt":"x < 0 or x > 5","preformatted":true}]}],"config":{"groupOrder":true,"groupWidth":"25"}}]}]]></answer>
+    <validateonsave>1</validateonsave>
+    <testsplitterre></testsplitterre>
+    <language></language>
+    <acelang></acelang>
+    <sandbox></sandbox>
+    <grader></grader>
+    <cputimelimitsecs></cputimelimitsecs>
+    <memlimitmb></memlimitmb>
+    <sandboxparams></sandboxparams>
+    <templateparams></templateparams>
+    <hoisttemplateparams>1</hoisttemplateparams>
+    <templateparamslang>None</templateparamslang>
+    <templateparamsevalpertry>0</templateparamsevalpertry>
+    <templateparamsevald>{}</templateparamsevald>
+    <twigall>0</twigall>
+    <uiplugin></uiplugin>
+    <uiparameters></uiparameters>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxfilesize>10240</maxfilesize>
+    <filenamesregex></filenamesregex>
+    <filenamesexplain></filenamesexplain>
+    <displayfeedback>1</displayfeedback>
+    <giveupallowed>0</giveupallowed>
+    <prototypeextra></prototypeextra>
+    <testcases>
+    </testcases>
+  </question>
+
+</quiz>
