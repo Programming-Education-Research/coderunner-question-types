@@ -11,9 +11,12 @@ Prototypes[^3].
 ## License
 
 <a href="https://github.com/Programming-Education-Research/coderunner-question-types">Coderunner Question Types</a> © 2025 by <a href="https://github.com/James-Ansley">James Finnie-Ansley</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;width: 1em;height:1em;margin-left: .2em;">
-<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;width: 1em;height:1em;margin-left: .2em;">
-<img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;width: 1em;height:1em;margin-left: .2em;">
+
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">
+<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg">
+<img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg">
+</a>
 
 [^1]: https://moodle.org/
 [^2]: https://coderunner.org.nz/
