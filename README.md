@@ -10,7 +10,7 @@ Prototypes[^3].
 
 ## License
 
-<a href="https://github.com/Programming-Education-Research/coderunner-question-types">Coderunner Question Types</a> © 2025 by <a href="https://github.com/James-Ansley">James Finnie-Ansley</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+<a href="https://codeberg.org/CSEd/coderunner-question-types">Coderunner Question Types</a> © 2025 by <a href="https://codeberg.org/james-ansley">James Finnie-Ansley</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 
 <a href="https://creativecommons.org/licenses/by-sa/4.0/">
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">
